@@ -1,0 +1,33 @@
+body{
+  background-image: url("images/Entrance3.jpeg");
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  background-size: 1560px 1000px;
+}
+
+.person{
+  /* background-image: url("personback.png"); */
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  bottom: -30px;
+  left: 850px;
+}
+
+.mikeOn{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+.mikeOf{
+  position: absolute;
+  bottom: 10px;
+  left: 150px;
+}
+
+.arrow{
+  position: absolute;
+  bottom: 0px;
+  right: 50px;
+}
